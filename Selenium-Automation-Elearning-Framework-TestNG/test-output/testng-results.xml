@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18302" started-at="2020-01-31T12:55:44 IST" finished-at="2020-01-31T12:56:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18302" started-at="2020-01-31T12:55:44 IST" finished-at="2020-01-31T12:56:03 IST">
+      <class name="com.training.sanity.tests.TestCase3productTests">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.TestCase3productTests@1084709]" name="setUpBeforeClass" is-config="true" duration-ms="12938" started-at="2020-01-31T12:55:44 IST" finished-at="2020-01-31T12:55:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:com.training.sanity.tests.TestCase3productTests@1084709]" name="validLoginTest" duration-ms="3550" started-at="2020-01-31T12:55:57 IST" finished-at="2020-01-31T12:56:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.TestCase3productTests@1084709]" name="tearDown" is-config="true" duration-ms="1771" started-at="2020-01-31T12:56:01 IST" finished-at="2020-01-31T12:56:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.TestCase3productTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
